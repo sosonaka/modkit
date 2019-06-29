@@ -6523,14 +6523,14 @@
       "buttonall" : "マックス"
    }, 
    "mainmenu" : { 
-      "continue" : "持続する", 
-      "new" : "新しいゲーム", 
-      "load" : "負荷", 
-      "exit" : "出口", 
+      "continue" : "コンテニュー", 
+      "new" : "ニューゲーム", 
+      "load" : "ロード", 
+      "exit" : "ゲーム終了", 
       "settings" : "設定", 
-      "help" : "助けて", 
-      "mods" : "改造", 
-      "credits" : "栄誉殿堂", 
+      "help" : "ヘルプ", 
+      "mods" : "MOD", 
+      "credits" : "クレジット", 
       "bundle" : { 
          "title" : "服KIT", 
          "none" : "旅行者", 
